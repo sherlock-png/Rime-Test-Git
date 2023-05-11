@@ -21,12 +21,13 @@
 
 
 wenzheins@163.com	wen	1
+wenzhe621@outlook.com	wen
+wenzhe_xu@outlook.com	wen
+xuwenzhe2000@gmail.com	wen
 Gmail	gm	2
 xuwenzhe2000@gmail.com	gm	1
-许文哲	xw	1
 xuwenzhe	xw	2
 xuwenzhe	xwz	1
-王飞	wf	1
 南京信息工程大学	nx	1
 天长	ti	2
 安徽省滁州市天长市	ti	1
@@ -35,16 +36,51 @@ xuwenzhe	xwz	1
 俺哥	ange	2
 俺	an	1
 俺哥	ag	1
-
-
-
-
-
-
-
-
-
-
-
-
-
+1818黄金眼	hljb	1
+CCTV	cc	1
+峰哥亡命天涯	fgg	1
+峰哥	fgg	2	
+峰哥亡命天涯	fgge	1
+峰哥	fgge	2
+Mybatis	my	1
+Mybatis	mybatis	1
+RestController	restc	1
+Controller	cont	1
+Controller	controller	1
+怎么了	zfml	1
+在吗	zdm	1
+在吗	zm	1
+什么事	umui	1
+什么	uimo	1
+什么	um	1
+指什么	vium	1
+是什么	uium	1
+哎	ai	1
+呃	e	1
+。。。	。	1
+SpringBoot	spring	1
+SpringBoot	sp	1
+这玩意儿	vewjyi	1
+这玩意儿	vewjy	1
+可以	key	1
+可以	ky	1
+饿了	el	1
+呢	n	1
+吧	b	1
+阿里	ali	2
+阿里云	aliy	2
+阿里云	aliy	2
+阿里云盘	aliyyp	2
+为什么	wwum	1
+没什么	mwum	1
+sherlock69	sherlock	1
+sherlock69	sher	2
+sherlock996	sher	1
+阿里云	aliyy	1
+叫什么	jnum	1
+如果	rug	1
+结果	jpg	1
+ChatGPT	cha	1
+ChatGPT	ch	1
+Long time no see long 1
+吗	m	1
